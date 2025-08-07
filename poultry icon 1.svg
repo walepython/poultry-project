@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Laag_1" x="0px" y="0px" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808022;}
+</style>
+<g>
+	<circle class="st0" cx="254.35" cy="46.27" r="27.69"></circle>
+	<circle class="st0" cx="46.65" cy="253.96" r="27.69"></circle>
+	<circle class="st0" cx="254.35" cy="253.96" r="27.69"></circle>
+	<circle class="st0" cx="46.65" cy="46.27" r="27.69"></circle>
+	<g>
+		<path class="st0" d="M150.5,46.27c-57.35,0-103.85,46.49-103.85,103.85S93.15,253.96,150.5,253.96s103.85-46.49,103.85-103.85    S207.85,46.27,150.5,46.27z M224.14,192.99c0,2.44-2.01,4.05-4.83,4.05H77.4c-2.62,0-3.83-1.61-3.83-4.05v-4.42c0,0,0,0,0-0.41    c0,0,0,0,0-0.78l19.35-13.13c-0.81-0.78-0.81-1.4-0.81-2.6v-65.93c0-3.22,2.42-5.24,5.44-5.24h102.2c2.62,0,5.24,2.02,5.24,5.24    v65.93c0,1.2-0.61,1.82-0.61,2.6l18.95,12.72c0.81,0.41,0.81,0.41,0.81,1.61v0.41V192.99z"></path>
+		<rect x="96.34" y="108.15" class="st0" width="104.22" height="60.44"></rect>
+	</g>
+</g>
+</svg>
